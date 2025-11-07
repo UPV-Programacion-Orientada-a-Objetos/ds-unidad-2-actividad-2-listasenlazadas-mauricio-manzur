@@ -1,0 +1,7 @@
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/prt7_decoder.dir
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/edit_cache.dir
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/rebuild_cache.dir
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/list_install_components.dir
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/install.dir
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/install/local.dir
+/home/manzur/GitProjects/politecnica/ds-unidad-2-actividad-2-listasenlazadas-mauricio-manzur/build/CMakeFiles/install/strip.dir
